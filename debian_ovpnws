@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='104.37.190.203';
+USER='dhoomvpn_dhoomvpnplus';
+PASS='@Wasdzxcvb12345';
+DBNAME='dhoomvpn_dhoomvpnplus';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
